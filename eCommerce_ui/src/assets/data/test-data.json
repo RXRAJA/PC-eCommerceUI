@@ -1,0 +1,226 @@
+{
+    "results": [
+        {
+            "product": {
+                "sku": "100738",
+                "name": "Stone Pie Plate",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/100738-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 18040,
+            "listPrice": 50,
+            "salePrice": 50
+        },
+        {
+            "product": {
+                "sku": "100251",
+                "name": "Pizza Stone",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/100251-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 25756,
+            "listPrice": 50,
+            "salePrice": 50
+        },
+        {
+            "product": {
+                "sku": "100280",
+                "name": "Rectangle Stone",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/100280-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 10676,
+            "listPrice": 45,
+            "salePrice": 45
+        },
+        {
+            "product": {
+                "sku": "3150",
+                "name": "Rockcrok Grill Stone",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/3150-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 9773,
+            "listPrice": 85,
+            "salePrice": 85
+        },
+        {
+            "product": {
+                "sku": "100834",
+                "name": "Stone-Fruit Wedger",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/100834-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 11066,
+            "listPrice": 30,
+            "salePrice": 30
+        },
+        {
+            "product": {
+                "sku": "100253",
+                "name": "Personal Pizza Stone",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/100253-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 20991,
+            "listPrice": 30,
+            "salePrice": 30
+        },
+        {
+            "product": {
+                "sku": "100384",
+                "name": "Stone Bar Pan",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/100384-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 8171,
+            "listPrice": 50,
+            "salePrice": 50
+        },
+        {
+            "product": {
+                "sku": "100775",
+                "name": "Stone Serving Tray",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/100775-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 22747,
+            "listPrice": 45,
+            "salePrice": 45
+        },
+        {
+            "product": {
+                "sku": "100774",
+                "name": "Stone Rectangular Baker",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/100774-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 18596,
+            "listPrice": 65,
+            "salePrice": 65
+        },
+        {
+            "product": {
+                "sku": "100737",
+                "name": "Large Round Stone",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/100737-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 25050,
+            "listPrice": 59.5,
+            "salePrice": 59.5
+        },
+        {
+            "product": {
+                "sku": "100252",
+                "name": "Medium Pizza Stone",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/100252-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 2718,
+            "listPrice": 40,
+            "salePrice": 40
+        },
+        {
+            "product": {
+                "sku": "1379",
+                "name": "White Large Round Stone",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/1379-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 158,
+            "listPrice": 54,
+            "salePrice": 54
+        },
+        {
+            "product": {
+                "sku": "100221",
+                "name": "Stone Loaf Pan",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/100221-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 12206,
+            "listPrice": 35,
+            "salePrice": 35
+        },
+        {
+            "product": {
+                "sku": "3158",
+                "name": "Rockcrok Small Grill Stone",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/3158-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 3451,
+            "listPrice": 40,
+            "salePrice": 40
+        },
+        {
+            "product": {
+                "sku": "100255",
+                "name": "Medium Stone Bar Pan",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/100255-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 6477,
+            "listPrice": 40,
+            "salePrice": 40
+        },
+        {
+            "product": {
+                "sku": "100256",
+                "name": "Small Stone Bar Pan",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/100256-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 4756,
+            "listPrice": 30,
+            "salePrice": 30
+        },
+        {
+            "product": {
+                "sku": "100736",
+                "name": "Stone Rectangular Baker With Tray",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/100736-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 0,
+            "listPrice": 110,
+            "salePrice": 110
+        },
+        {
+            "product": {
+                "sku": "RP1209",
+                "name": "Replacement Base+Footring (#100834)",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/RP1209-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 485,
+            "listPrice": 12,
+            "salePrice": 12
+        },
+        {
+            "product": {
+                "sku": "1424",
+                "name": "Rectangular Baker Set",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/1424-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 260,
+            "listPrice": 134,
+            "salePrice": 134
+        },
+        {
+            "product": {
+                "sku": "1423",
+                "name": "Rectangular Baker",
+                "imageUrl": "https://www.pamperedchef.com/iceberg/com/product/1423-lg.jpg",
+                "isVirtualSku": false
+            },
+            "inventoryLevel": 121,
+            "listPrice": 59,
+            "salePrice": 59
+        }
+    ],
+    "rows": 20,
+    "start": 0
+}

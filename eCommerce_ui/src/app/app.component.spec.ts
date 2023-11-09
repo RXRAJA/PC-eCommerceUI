@@ -14,16 +14,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'eCommerce_ui'`, () => {
+  it(`should have as title 'pc-ecommerce'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('eCommerce_ui');
+    expect(app.title).toEqual('pc-ecommerce');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('.content span')?.textContent).toContain('eCommerce_ui app is running!');
+    expect(compiled.querySelector('.content span')?.textContent).toContain('pc-ecommerce app is running!');
   });
 });
